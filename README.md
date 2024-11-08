@@ -1,6 +1,9 @@
 ## 👋 Hi, Welcome to my GitHub
 
-![image](https://github.com/user-attachments/assets/4db5d3e6-645a-4dd7-8188-d9b482bc9d43)
+![image](https://github.com/user-attachments/assets/d7c0687a-3177-4914-b67f-7e1c7008db98)
+
+
+
 
 
 <!--- For editing the graphicas look for https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file --->
